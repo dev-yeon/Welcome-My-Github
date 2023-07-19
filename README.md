@@ -1,4 +1,4 @@
-# Welcome-My-Github
+# Welcome-My-Github (소들이님 공부자료) 
 
 - [알고리즘](/Algorithm/README.md)
 - [전산기초](/CommonTheory/README.md)
